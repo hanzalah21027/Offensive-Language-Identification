@@ -6,7 +6,7 @@ We go through a detailed study of Offensive Language Identification using Deep L
 
 We have used four methods to train our datasets.
 Each of the methods is described below:
-3.1 TF-IDF model
+### TF-IDF model
 TF-IDF or Term Frequency - Inverse Document
 Frequency algorithm uses the frequency of words
 to determine their relevancy to a given document.
