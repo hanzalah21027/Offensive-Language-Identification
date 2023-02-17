@@ -41,3 +41,9 @@ containing hate speech and offensive text
 Stacking, also known as Stacked Generalization,
 is an ensemble machine-learning technique. It
 combines the prediction of multiple machine learning models on the same dataset.
+
+### Neural Architecture Search
+The neural architecture search is used to discover
+the best neural network architecture for a specific
+need. NAS automates the human effort to find
+the best neural architecture.
