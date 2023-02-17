@@ -47,3 +47,7 @@ The neural architecture search is used to discover
 the best neural network architecture for a specific
 need. NAS automates the human effort to find
 the best neural architecture.
+
+
+## Results
+![image](https://user-images.githubusercontent.com/88739322/219786894-f0323ba6-e0ad-40c5-86dc-3aa324fc96cd.png)
